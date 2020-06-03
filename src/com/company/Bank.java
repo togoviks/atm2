@@ -42,4 +42,5 @@ public class Bank {
     private boolean checkCardBalance(int accNum, int sum) {
         return bankAccounts.get(accNum).getBalance() > sum;
     }
+
 }

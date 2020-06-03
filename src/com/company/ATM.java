@@ -60,5 +60,4 @@ public class ATM {
         access = false;
         cardIn = false;
     }
-
 }

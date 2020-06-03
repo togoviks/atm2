@@ -10,4 +10,5 @@ public class Card {
     public int getCardNum() {
         return cardNum;
     }
+
 }

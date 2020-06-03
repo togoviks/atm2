@@ -16,5 +16,4 @@ public class Application {
         atm1.addMoney(500);
         atm1.takeOffBalance(300);
     }
-
 }
